@@ -1,0 +1,113 @@
+
+
+html, body {
+    height: 100%;
+	width: auto;
+	font-size: .9em;
+	font-family: sans-serif;
+}
+
+
+#icon_linkedin {
+	background-color: #5f9ea0;
+	width: 7%;
+	margin-left: -.1em;
+}
+
+.icon_p {
+	font-size: 1.7em;
+	font-weight: 600;
+	font-family: sans-serif;
+}
+.container {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	height: auto;
+	background-color: #5f9ea0;
+	box-shadow: 10px 0px lightblue;
+	overflow: visible;
+}
+
+.text_one {
+	font-size: 3.7em;
+	font-weight: 600;
+	font-family: sans-serif;
+}
+
+.text_two {
+	font-size: 2.7em;
+	font-weight: 400;
+	font-family: sans-serif;
+	margin: -1.3em 3.8em;
+	display: block;
+}
+
+.text_three {
+	font-size: 1.7em;
+	font-weight: 600;
+	font-family: sans-serif;
+	display: block;
+	margin-top: 1em;
+}
+
+.text_four {
+	font-size: 1.7em;
+	font-weight: 600;
+	font-family: sans-serif;
+	display: block;
+	margin-top: 0em;
+}
+
+.text_five {
+	font-size: 2em;
+	font-weight: 600;
+	font-family: sans-serif;
+}
+
+.text_six {
+	font-size: 1.5em;
+	font-weight: 600;
+	font-family: sans-serif;
+}
+
+#ot_icon {
+	width: 20%;
+}
+
+#top_main_div {
+	margin: auto;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.fas {
+	margin-bottom: .6em;
+}
+
+#ProfileImg {
+	background-color: #5f9ea0;
+	border-radius: 50%;
+	width: 60%;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	border: 3px solid red;
+	box-shadow: 10px 10px grey;
+}
+
+.paragraph1 {
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 1.3em;
+	text-align: justify;
+}
+/*
+@media only screen and (max-width: 990px) {
+	.container {
+		width: 100%;
+		margin-left: 0px;
+		margin-right: 0px;
+		padding: 0 1.5em;
+	    box-shadow: none;
+	}
+}
